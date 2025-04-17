@@ -1,1 +1,0 @@
-# multi-modal-fetal-abnormality-detection-using-ai
